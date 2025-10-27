@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "f1af6ddb-9763-9159-4f52-cb1a3f025c04",
+  "instructors": {
+    "content": [
+      "6e58a3e0-e14f-b5cd-2bca-b303b181d447",
+      "6c07059b-5006-54f1-ce20-db6c9de9c8cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8fdf4f6b-75e7-19f2-87c4-6946c5a09062",
+    "website": "2-158j-computational-geometry-spring-2003"
+  },
+  "course_title": "Computational Geometry",
+  "course_description": "Topics in surface modeling: b-splines, non-uniform rational b-splines, physically based deformable surfaces, sweeps and generalized cylinders, offsets, blending and filleting surfaces. Non-linear solvers and intersection problems. Solid modeling: constructive solid geometry, boundary representation, non-manifold and mixed-dimension boundary representation models, octrees. Robustness of geometric computations. Interval methods. Finite and boundary element discretization methods for continuum mechanics problems. Scientific visualization. Variational geometry. Tolerances. Inspection methods. Feature representation and recognition. Shape interrogation for design, analysis, and manufacturing. Involves analytical and programming assignments.\n\nThis course was originally offered in Course 13 (Department of Ocean Engineering) as 13.472J. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.158J.\n",
+  "department_numbers": [
+    "2",
+    "1",
+    "16"
+  ],
+  "extra_course_numbers": "1.128J,16.940J",
+  "primary_course_number": "2.158J",
+  "course_image_thumbnail": {
+    "content": "561c8f17-4233-fb93-8ffe-20f7ef440ee2",
+    "website": "2-158j-computational-geometry-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Open Textbooks"
+  ],
+  "site_uid": "2e43605f-bc79-4845-b6e0-872789c1f60c",
+  "site_short_id": "2.158j-spring-2003",
+  "site_url_path": "courses/2-158j-computational-geometry-spring-2003",
+  "title": "Course Metadata"
+}
